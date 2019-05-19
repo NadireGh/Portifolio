@@ -1,6 +1,6 @@
 # Portifolio
 
-![alt text](/assets/images/readme.png )
+![alt text](/assets/images/README.png )
 
 
 ### Technology I used: ###
